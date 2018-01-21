@@ -1,15 +1,10 @@
 
 package se_firsthw;
 
-/**
- *
- * @author YazanJian
- */
+
 public class SE_FirstHW {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         // TODO code application logic here
         int x,y; 
